@@ -12,6 +12,7 @@ my leetcode solution
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/prateek1231q/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
