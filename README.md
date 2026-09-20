@@ -8,6 +8,7 @@ my leetcode solution
 | ------- |
 | [0035-search-insert-position](https://github.com/prateek1231q/leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek1231q/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prateek1231q/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -27,4 +28,24 @@ my leetcode solution
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prateek1231q/leetcode/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
