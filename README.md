@@ -6,6 +6,7 @@ my leetcode solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prateek1231q/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/prateek1231q/leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek1231q/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
@@ -31,6 +32,7 @@ my leetcode solution
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prateek1231q/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
