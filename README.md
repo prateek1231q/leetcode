@@ -7,6 +7,7 @@ my leetcode solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prateek1231q/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/prateek1231q/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/prateek1231q/leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek1231q/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
@@ -60,9 +61,14 @@ my leetcode solution
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prateek1231q/leetcode/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/prateek1231q/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/prateek1231q/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prateek1231q/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
