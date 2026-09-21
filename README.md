@@ -18,6 +18,7 @@ my leetcode solution
 | ------- |
 | [0007-reverse-integer](https://github.com/prateek1231q/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/prateek1231q/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,12 @@ my leetcode solution
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prateek1231q/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/prateek1231q/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/prateek1231q/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
