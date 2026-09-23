@@ -11,6 +11,7 @@ my leetcode solution
 | [0035-search-insert-position](https://github.com/prateek1231q/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek1231q/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/prateek1231q/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek1231q/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -32,6 +33,7 @@ my leetcode solution
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek1231q/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/prateek1231q/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
