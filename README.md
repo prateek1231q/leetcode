@@ -9,6 +9,7 @@ my leetcode solution
 | [0001-two-sum](https://github.com/prateek1231q/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/prateek1231q/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/prateek1231q/leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek1231q/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@ my leetcode solution
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prateek1231q/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -48,6 +50,7 @@ my leetcode solution
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -79,4 +82,12 @@ my leetcode solution
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prateek1231q/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
