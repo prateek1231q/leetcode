@@ -26,12 +26,14 @@ my leetcode solution
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prateek1231q/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prateek1231q/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prateek1231q/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek1231q/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prateek1231q/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
@@ -69,6 +71,7 @@ my leetcode solution
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prateek1231q/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/prateek1231q/leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/prateek1231q/leetcode/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/prateek1231q/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -92,4 +95,8 @@ my leetcode solution
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prateek1231q/leetcode/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prateek1231q/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
