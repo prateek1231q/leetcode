@@ -14,6 +14,7 @@ my leetcode solution
 | [0152-maximum-product-subarray](https://github.com/prateek1231q/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prateek1231q/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prateek1231q/leetcode/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/prateek1231q/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prateek1231q/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek1231q/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prateek1231q/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
